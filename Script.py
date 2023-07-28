@@ -10,10 +10,16 @@ Mʏ ɪ ᴀᴍ ᴛʜᴇ ʙᴇsᴛ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴘʀᴏᴠɪᴅ�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Kgashok04>☢ Owner Of TTBots ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TeamHMT_Bots>TT Bot Updates 👾</a></b>
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
-
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/SK_INDIA>𝗩𝗜𝗝𝗔𝗬</a></b>
+<b>✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/SK_INDIA>𝗩𝗜𝗝𝗔𝗬</a></b>
+<b>✯ 𝙰𝙳𝙼𝙸𝙽  : <a href=https://t.me/The_K_I_R_A>𝗦𝗨𝗣𝗘𝗥𝗠𝗔𝗡</a></b>
+<b>✯ 𝙱𝚄𝙶𝚂 𝙵𝙸𝚇𝙸𝙽𝙶 𝙱𝚈 : <a href=https://t.me/SANJIT_26>𝗦𝗔𝗡𝗝𝗜𝗧</a></b>
+<b>✯ 𝙾𝚁𝙶𝙸𝙽𝙰𝙻 𝚁𝙴𝙿𝙾 𝙱𝚈 : <a href=https://t.me/Kgashok04>𝗔𝗦𝗛𝗢𝗞</a></b>
+<b>✯ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙱𝚈 : <a href=https://t.me/M2LINKS>𝗠2𝗟𝗜𝗡𝗞𝗦</a></b>
+<b>✯ 𝚂𝙴𝚁𝚅𝙴𝚁 (𝚅𝙿𝚂) : <a href=https://fly.io>𝗙𝗟𝗬.𝗜𝗢</a></b>
+<b>✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/TITANMOVIES_INDIA>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</a></b>
+<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.42 [Sᴛᴀʙʟᴇ]</b>"""
+    
     SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
