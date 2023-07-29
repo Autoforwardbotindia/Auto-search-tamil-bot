@@ -1,4 +1,5 @@
-class script(object):
+   class script(object):
+       
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>
 Mʏ ɪ ᴀᴍ ᴛʜᴇ ʙᴇsᴛ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ
@@ -150,25 +151,11 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TeamHMT_Bots/44> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+    SHORTLINK_INFO ="""
+<b>hey bro 
+➣ soon.......</b>"""
 
-Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
-
-Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
-
-sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
-
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://mplaylink.com/ref/106324576666323105902>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
-
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TeamHMT_Bots/44> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
-
-➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
-
-Any Doubts or Not Connecting? Contact Me </b>
-"""
-
-    REQINFO = """
+   ConREQIN """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
 
 ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
